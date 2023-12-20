@@ -849,5 +849,4 @@ private:
 
 #endif // RS_HPP
 
-using namespace std;
 
